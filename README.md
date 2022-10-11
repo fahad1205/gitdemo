@@ -1,1 +1,1 @@
-# gitdemo
+# dummy-repo
